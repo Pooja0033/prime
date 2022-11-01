@@ -1,6 +1,6 @@
 
 
-![GitHub Repo stars](https://img.shields.io/github/stars/LXR-YOUTUBER-AMAL/AutoFilterBotV3?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Pooja0033/AutoFilterBotV3?style=social)
 <img src="https://img.shields.io/github/forks/LXR-YOUTUBER-AMAL/AutoFilterBotV3?style=social"></img>
 ## How To Deploy Video
 <a href="https://youtube.com/channel/UCqRmM0N9Z-7bBiTqJsfFWwg"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/5hnYOKBzyi8?style=social">
